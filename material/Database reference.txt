@@ -1,0 +1,20 @@
+Database KedaiKopi
+
+Table
+- Menu
+- product
+
+Menu
+- id (key)
+- name
+- image
+
+Product
+- id (key)
+- image
+- name
+- rating
+- price
+
+image/product/coffee_2.jpg
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex odio eius, natus incidunt repudiandae ratione vero libero magni excepturi deleniti illum iusto rerum repellendus aperiam veniam! Tempore..
